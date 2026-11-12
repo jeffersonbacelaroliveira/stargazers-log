@@ -1,0 +1,30 @@
+[
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation for GitHub's products and services.",
+    "language": "JavaScript",
+    "starredAt": "2025-03-18",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "language": "TypeScript",
+    "starredAt": "2025-02-02",
+    "url": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for production.",
+    "language": "JavaScript",
+    "starredAt": "2024-12-11",
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "lucide-icons/lucide",
+    "description": "Beautiful & consistent icon toolkit made by the community.",
+    "language": "TypeScript",
+    "starredAt": "2024-09-27",
+    "url": "https://github.com/lucide-icons/lucide"
+  }
+]
